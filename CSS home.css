@@ -275,11 +275,11 @@ footer *{
         {
             padding: 20px;
         }
-        .banner .contentBx
+        .banner .aboutusbox
         {
             padding: 40px 30px;
         }
-        .about .contentbx,
+        .about .aboutusbox,
         .contact .contactForm .row
         {
             grid-template-columns: repeat(1,1fr);
